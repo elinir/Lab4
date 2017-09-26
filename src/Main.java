@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args){
-        System.out.println("LOL this kind of sucked");
+        System.out.println("LOL this kind of sucked!");
         Scanner scnr=new Scanner(System.in);
         System.out.println("Enter length of rectangle (positive integer):");
         int lengthRec=scnr.nextInt();
